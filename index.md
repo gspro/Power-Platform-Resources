@@ -34,3 +34,4 @@
 ### Useful Blogs
 [PowerApps Raw](https://www.richardawilson.com/)
 
+[CRM Ninja(omni channel stuff)](https://thecrm.ninja/)
