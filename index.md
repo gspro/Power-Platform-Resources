@@ -29,6 +29,8 @@
 
 [System Req's](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/system-requirements-required-technologies?view=op-9-1)
 
+[Rollups](https://support.microsoft.com/en-us/topic/microsoft-dynamics-365-on-premises-cumulative-updates-ed51f905-cf4e-3641-dc7c-afe2b868eeb9)
+
 ### Useful Blogs
 [PowerApps Raw](https://www.richardawilson.com/)
 
