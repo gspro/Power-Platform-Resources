@@ -5,6 +5,8 @@
 ### DataVerse
 [Create and use Custom APIs](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/custom-api)
 
+[Powerapps samples repo](https://github.com/Microsoft/PowerApps-Samples)
+
 #### Typescript
 [Scott D's Typescript Web Resources class](https://learn.develop1.net/courses/building-javascript-web-resources-using-typescript/contents/60a9660f607a8)
 
