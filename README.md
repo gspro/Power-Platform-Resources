@@ -21,6 +21,8 @@
 ### Data
 [Improve Kingswaysoft Performance](https://nishantrana.me/2021/06/15/how-to-improve-data-migration-performance-ssis-azure-data-factory-dataverse-dynamics-365/)
 
+### SSRS/PBI
+[Set up SSRS for D365](https://readyxrm.blog/2021/01/23/ssrsdataverse2021/)
 
 ### On prem
 [Service Accounts](https://docs.microsoft.com/en-us/previous-versions/dynamicscrm-2016/deployment-administrators-guide/hh699825(v=crm.8)?redirectedfrom=MSDN#BKMK_sandbox_perm)
