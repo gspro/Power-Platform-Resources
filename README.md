@@ -35,3 +35,8 @@
 
 ### Useful Blogs
 [PowerApps Raw](https://www.richardawilson.com/)
+
+### Utility
+To enable telnet -> Dism /Online /Enable-feature /FeatureName:TelnetClient
+
+
