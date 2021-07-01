@@ -18,8 +18,10 @@
 
 [Call WebAPI using XrmTooling from PowerShell](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/xrm-tooling/use-powershell-cmdlets-xrm-tooling-connect)
 
-### Data
+### Data and SQL
 [Improve Kingswaysoft Performance](https://nishantrana.me/2021/06/15/how-to-improve-data-migration-performance-ssis-azure-data-factory-dataverse-dynamics-365/)
+
+[Export/Create Environment Variables](https://github.com/gspro/SQLResources/blob/main/ExportEnvVars.sql)
 
 ### SSRS/PBI
 [Set up SSRS for D365](https://readyxrm.blog/2021/01/23/ssrsdataverse2021/)
