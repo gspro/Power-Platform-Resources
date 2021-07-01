@@ -8,6 +8,9 @@
 #### Typescript
 [Scott D's Typescript Web Resources class](https://learn.develop1.net/courses/building-javascript-web-resources-using-typescript/contents/60a9660f607a8)
 
+#### Web Resources
+[SPKL deployment](https://benediktbergmann.eu/2021/06/16/add-sparkle-xrm-to-a-webresources-project/?utm_campaign=PP-Weekly&utm_medium=email&utm_source=Revue%20newsletter)
+
 
 ### Connectivity
 [Create an App Registration](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory)
