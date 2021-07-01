@@ -7,6 +7,9 @@
 
 [PowerApps samples repo](https://github.com/Microsoft/PowerApps-Samples)
 
+#### Web Resources
+[Spkl](https://benediktbergmann.eu/2021/06/16/add-sparkle-xrm-to-a-webresources-project/?utm_campaign=PP-Weekly&utm_medium=email&utm_source=Revue%20newsletter)
+
 #### Typescript
 [Scott D's Typescript Web Resources class](https://learn.develop1.net/courses/building-javascript-web-resources-using-typescript/contents/60a9660f607a8)
 
