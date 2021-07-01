@@ -35,6 +35,8 @@
 
 [Ports](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/network-ports-for-microsoft-dynamics-365?view=op-9-1)
 
+[SMTP Email Profile with Unsecure connection](https://github.com/gspro/SQLResources/blob/main/CrmOnPremEmailUnsecureConnection.sql)
+
 ### Useful Blogs
 [PowerApps Raw](https://www.richardawilson.com/)
 
