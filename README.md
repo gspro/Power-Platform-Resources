@@ -11,6 +11,8 @@
 #### Web Resources
 [SPKL deployment](https://benediktbergmann.eu/2021/06/16/add-sparkle-xrm-to-a-webresources-project/?utm_campaign=PP-Weekly&utm_medium=email&utm_source=Revue%20newsletter)
 
+#### PCF
+[MS Tutorial](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/tutorial-create-model-driven-field-component)
 
 ### Connectivity
 [Create an App Registration](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory)
