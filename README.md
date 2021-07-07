@@ -47,5 +47,6 @@
 
 ### Utility
 To enable telnet -> Dism /Online /Enable-feature /FeatureName:TelnetClient
+[Set up postman to work with DataVerse](https://youtu.be/HpUj11yU0fY)
 
 
