@@ -14,6 +14,11 @@
 #### PCF
 [MS Tutorial](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/tutorial-create-model-driven-field-component)
 
+### OmniChannel
+[Crm Ninja blog](https://thecrm.ninja/omnichannel-for-dynamics-365/)
+
+[Proactive Chat](https://carldesouza.com/use-omnichannel-proactive-chat-to-engage-with-your-customers/?utm_campaign=Power%20Platform%20Developers%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
+
 ### Connectivity
 [Create an App Registration](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory)
 
