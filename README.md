@@ -57,3 +57,5 @@ Screenshot / Demo live utility ->   type start->run->psr
 
 [Set up postman to work with DataVerse](https://youtu.be/HpUj11yU0fY)
 
+[Query Expression to FetchXml c#](https://github.com/gspro/Power-Platform-Fetch-XML/blob/main/QueryExpressionToFetchXml.cs)
+
