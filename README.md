@@ -22,6 +22,8 @@
 ### Connectivity
 [Create an App Registration](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory)
 
+[Create Client Secret](https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal#option-2-create-a-new-application-secret)
+
 [Add App User to DataVerse](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users)
 
 [Call WebAPI using Client Creds from PowerShell](https://github.com/gspro/Power-Platform-Resources/commit/eca877be69a8017af44c6fbf2713f001ceae04ac)
