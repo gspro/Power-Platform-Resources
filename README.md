@@ -5,6 +5,8 @@
 ### DataVerse
 [Create and use Custom APIs](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/custom-api)
 
+[Sample Code](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/sample-code-directory?view=op-9-1)
+
 #### Typescript
 [Scott D's Typescript Web Resources class](https://learn.develop1.net/courses/building-javascript-web-resources-using-typescript/contents/60a9660f607a8)
 
