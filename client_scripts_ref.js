@@ -15,4 +15,8 @@ function LockUnlock(executionContext) {
     }
   
   //set visible
-     formContext.getControl("rboc_currentage").setVisible(age <= 17);
+  formContext.getControl("rboc_currentage").setVisible(age <= 17);
+    
+  //address a tab, hide a section
+  formContext.ui.tabs.get("SUMMARY_TAB").sections.get("section_opportunitychild").setVisible(false);
+
