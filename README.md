@@ -11,6 +11,8 @@
 #### Web Resources
 [SPKL deployment](https://benediktbergmann.eu/2021/06/16/add-sparkle-xrm-to-a-webresources-project/?utm_campaign=PP-Weekly&utm_medium=email&utm_source=Revue%20newsletter)
 
+[JS samples](https://neilparkhurst.com/2017/02/25/javascript-my-collection/)
+
 #### PCF
 [MS Tutorial](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/tutorial-create-model-driven-field-component)
 
