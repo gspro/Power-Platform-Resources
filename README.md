@@ -53,6 +53,9 @@
 
 [SMTP Email Profile with Unsecure connection](https://github.com/gspro/SQLResources/blob/main/CrmOnPremEmailUnsecureConnection.sql)
 
+### Field Service
+[Quick ref](https://nishantrana.me/2021/08/17/quick-reference-dynamics-365-field-service/)
+
 ### Useful Blogs
 [PowerApps Raw](https://www.richardawilson.com/)
 
