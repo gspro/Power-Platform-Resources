@@ -28,6 +28,8 @@
 
 [Create Client Secret](https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal#option-2-create-a-new-application-secret)
 
+   [Extend client secret expiration > 2 yrs](https://crmtipoftheday.com/1404/app-secrets-that-last-longer-than-2-years/?utm_campaign=PP-Weekly&utm_medium=email&utm_source=Revue%20newsletter)
+
 [Add App User to DataVerse](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users)
 
 [Call WebAPI using Client Creds from PowerShell](https://github.com/gspro/Power-Platform-Resources/commit/eca877be69a8017af44c6fbf2713f001ceae04ac)
