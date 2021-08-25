@@ -1,6 +1,7 @@
 ## Power Platform Resources
 
 ### ALM CI/CD
+[PowerPlatform ALM](https://sharepains.com/2021/08/24/application-lifecycle-management/?utm_campaign=Power%20Platform%20Developers%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
 
 ### DataVerse
 [Create and use Custom APIs](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/custom-api)
