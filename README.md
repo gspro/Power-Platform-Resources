@@ -8,6 +8,11 @@
 
 [Sample Code](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/sample-code-directory?view=op-9-1)
 
+#### Power apps
+[Teams samples github repo](https://github.com/OfficeDev)
+
+[milestones sample](https://github.com/OfficeDev/microsoft-teams-apps-milestones)
+
 #### Typescript
 [Scott D's Typescript Web Resources class](https://learn.develop1.net/courses/building-javascript-web-resources-using-typescript/contents/60a9660f607a8)
 
