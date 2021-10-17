@@ -11,6 +11,8 @@
 #### Power apps
 [Teams samples github repo](https://github.com/OfficeDev)
 
+[AprilDunnamRepo](https://github.com/gspro/PowerApps)
+
 [milestones sample](https://github.com/OfficeDev/microsoft-teams-apps-milestones)
 
 #### Typescript
