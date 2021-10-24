@@ -26,6 +26,9 @@
 #### PCF
 [MS Tutorial](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/tutorial-create-model-driven-field-component)
 
+### Azure
+[MS Docs Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=v3%2Cwindows%2Ccsharp%2Cportal%2Cbash%2Ckeda)
+
 ### OmniChannel
 [Crm Ninja blog](https://thecrm.ninja/omnichannel-for-dynamics-365/)
 
