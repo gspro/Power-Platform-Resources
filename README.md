@@ -15,6 +15,8 @@
 
 [milestones sample](https://github.com/OfficeDev/microsoft-teams-apps-milestones)
 
+[PowerFx samples (and some powerapps)](https://pnp.github.io/powerplatform-samples/samples/powerapps/)
+
 #### Typescript
 [Scott D's Typescript Web Resources class](https://learn.develop1.net/courses/building-javascript-web-resources-using-typescript/contents/60a9660f607a8)
 
