@@ -13,8 +13,6 @@
 
 [AprilDunnamRepo](https://github.com/gspro/PowerApps)
 
-[milestones sample](https://github.com/OfficeDev/microsoft-teams-apps-milestones)
-
 [PowerFx samples (and some powerapps)](https://pnp.github.io/powerplatform-samples/samples/powerapps/)
 
 #### Typescript
