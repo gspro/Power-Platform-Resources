@@ -19,4 +19,27 @@ function LockUnlock(executionContext) {
     
   //address a tab, hide a section
   formContext.ui.tabs.get("SUMMARY_TAB").sections.get("section_opportunitychild").setVisible(false);
+    
+    
+   //set attribute
+    function pageOnLoad(executionContext) {
+    try {
+        debugger;
+        var formContext = executionContext.getFormContext();
+        formContext.getAttribute("_companyname").addOnChange(() => {
+            var lower = formContext.getAttribute("_companyname").getValue();
+            console.log(`before: ${lower}`);
+            if (lower) {
+                formContext.getAttribute("_companyname").setValue(lower.toUpperCase());
+            }
+            
+        });
+    }
+
+    catch (error) {
+        logError("pageOnLoad", error);
+    }
+}
+   
+    
 
