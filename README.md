@@ -81,6 +81,8 @@ Screenshot / Demo live utility ->   type start->run->psr
 
 [Query Expression to FetchXml c# (can just use xrmTB FXB instead)](https://github.com/gspro/Power-Platform-Fetch-XML/blob/main/QueryExpressionToFetchXml.cs)
 
+[D365 Dev Extensions (2019)](https://github.com/tsharp/D365DeveloperExtensions)
+
 ### Project Managment, Requirements
 [Requirements for a Power Platform project](https://www.apprising.co.nz/post/gathering-defining-power-platform-requirements?utm_campaign=Power%20Platform%20Developers%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
 
