@@ -1,0 +1,28 @@
+<!-- get status code values -->
+
+<fetch>
+<entity name="statusmap">
+<attribute name="objecttypecode" />
+<attribute name="status" />
+<link-entity name="stringmap" from="attributevalue" to="status" link-type="inner" alias="status">
+<attribute name="value" />
+<filter type="and">
+<condition attribute="langid" operator="eq" value="1033" />
+<condition attribute="attributename" operator="eq" value="statuscode" />
+<condition attribute="objecttypecode" operator="eq" value="1084" />
+</filter>
+</link-entity>
+<attribute name="state" />
+<link-entity name="stringmap" from="attributevalue" to="state" link-type="inner" alias="state">
+<attribute name="value" />
+<filter type="and">
+<condition attribute="langid" operator="eq" value="1033" />
+<condition attribute="attributename" operator="eq" value="statecode" />
+<condition attribute="objecttypecode" operator="eq" value="1084" />
+</filter>
+</link-entity>
+<filter>
+<condition attribute="objecttypecode" operator="eq" value="1084" />
+</filter>
+</entity>
+</fetch>
