@@ -15,6 +15,8 @@
 
 [PowerFx samples (and some powerapps)](https://pnp.github.io/powerplatform-samples/samples/powerapps/)
 
+[PowerFx custom date functions](https://github.com/pnp/powerfx-samples/blob/main/samples/date-functions/sourcecode/Src/Title%20Screen.fx.yaml)
+
 #### Typescript
 [Scott D's Typescript Web Resources class](https://learn.develop1.net/courses/building-javascript-web-resources-using-typescript/contents/60a9660f607a8)
 
