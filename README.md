@@ -88,3 +88,5 @@ Screenshot / Demo live utility ->   type start->run->psr
 ### Project Managment, Requirements
 [Requirements for a Power Platform project](https://www.apprising.co.nz/post/gathering-defining-power-platform-requirements?utm_campaign=Power%20Platform%20Developers%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
 
+### Certifications
+[List of MS Certs](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
