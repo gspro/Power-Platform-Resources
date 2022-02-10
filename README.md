@@ -17,6 +17,9 @@
 
 [PowerFx custom date functions](https://github.com/pnp/powerfx-samples/blob/main/samples/date-functions/sourcecode/Src/Title%20Screen.fx.yaml)
 
+#### Power Automate
+[Snippets](https://crmtipoftheday.com/pages/power-automate-gymnastics-reference-guide/)
+
 #### Typescript
 [Scott D's Typescript Web Resources class](https://learn.develop1.net/courses/building-javascript-web-resources-using-typescript/contents/60a9660f607a8)
 
