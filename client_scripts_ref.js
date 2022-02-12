@@ -40,6 +40,9 @@ function LockUnlock(executionContext) {
         logError("pageOnLoad", error);
     }
 }
-   
+   function getRecordId(ctx) {
+        let selectedRecord = executionContext.getFormContext().data.entity;
+        let Id = selectedRecord.getId().replace(/[{}]/g, ""); 
+   }
     
 
