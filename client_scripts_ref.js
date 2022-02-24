@@ -46,3 +46,8 @@ function LockUnlock(executionContext) {
    }
     
 
+    // display the form level notification as an INFO
+   // formContext.ui.setFormNotification(message, "INFO", myUniqueId);
+
+    // Wait for 5 seconds before clearing the notification
+   // window.setTimeout(function () { formContext.ui.clearFormNotification(myUniqueId); }, 5000);
