@@ -25,6 +25,7 @@
 
 #### Typescript
 [Scott D's Typescript Web Resources class](https://learn.develop1.net/courses/building-javascript-web-resources-using-typescript/contents/60a9660f607a8)
+[Typescript Webpack template](https://xrm.al/blog/typescript-dataverse?utm_campaign=Power%20Platform%20Developers%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
 
 #### Web Resources
 [SPKL deployment](https://benediktbergmann.eu/2021/06/16/add-sparkle-xrm-to-a-webresources-project/?utm_campaign=PP-Weekly&utm_medium=email&utm_source=Revue%20newsletter)
