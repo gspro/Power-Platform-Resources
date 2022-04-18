@@ -20,6 +20,8 @@
 
 + [PowerFx custom date functions](https://github.com/pnp/powerfx-samples/blob/main/samples/date-functions/sourcecode/Src/Title%20Screen.fx.yaml)
 
++ [Power Apps function list](https://www.matthewdevaney.com/the-complete-power-apps-functions-list/)
+
 #### Power Automate
 + [Snippets](https://crmtipoftheday.com/pages/power-automate-gymnastics-reference-guide/)
 + [Kahils cheatsheet](https://danikahil.com/2022/04/power-automate-dataverse-cheatsheet.html )
