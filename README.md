@@ -22,7 +22,7 @@
 
 + [Power Apps function list](https://www.matthewdevaney.com/the-complete-power-apps-functions-list/)
 
-+ Format currency: "$" & Text(ThisItem.Cost,"[$-en-US]0,000.00")
++ Format currency: "$" & Text(ThisItem.Cost,"[$-en-US]#,##0.00")
 
 
 #### Power Automate
