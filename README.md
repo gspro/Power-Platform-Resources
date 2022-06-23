@@ -22,6 +22,9 @@
 
 + [Power Apps function list](https://www.matthewdevaney.com/the-complete-power-apps-functions-list/)
 
++ Format currency: "$" & Text(ThisItem.Cost,"[$-en-US]0,000.00")
+
+
 #### Power Automate
 + [Snippets](https://crmtipoftheday.com/pages/power-automate-gymnastics-reference-guide/)
 + [Kahils cheatsheet](https://danikahil.com/2022/04/power-automate-dataverse-cheatsheet.html )
