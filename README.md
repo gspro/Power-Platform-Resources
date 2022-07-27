@@ -52,6 +52,8 @@
 + [Proactive Chat](https://carldesouza.com/use-omnichannel-proactive-chat-to-engage-with-your-customers/?utm_campaign=Power%20Platform%20Developers%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
 
 ### Connectivity
++ [a better app reg article](https://www.m365princess.com/blogs/2022-07-25-why-your-service-principal-doesnt-need-a-dynamics-user_impersonation-scope/?utm_campaign=Power%20Platform%20Developers%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
+
 + [App registration, service principle creation](https://www.matthewdevaney.com/a-visual-guide-to-power-platform-service-principal-setup/?s=03)
 
 + [Create an App Registration](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory)
