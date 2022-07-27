@@ -44,6 +44,12 @@
 
 + [Virtual (react) controls](https://www.develop1.net/public/post/2022/04/07/how-to-convert-pcf-to-virtual-control?utm_campaign=Power%20Platform%20Developers%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
 
+### UI/UX
++ [App Examples - Mobbin](https://mobbin.com/browse/ios/apps)
++ [US Tools](https://uxtools.co/)
++ [icons](https://iconsax.io/)
+
+
 ### Azure
 + [MS Docs Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=v3%2Cwindows%2Ccsharp%2Cportal%2Cbash%2Ckeda)
 
