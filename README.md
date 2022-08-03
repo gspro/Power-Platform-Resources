@@ -30,6 +30,7 @@
 + [Kahils cheatsheet](https://danikahil.com/2022/04/power-automate-dataverse-cheatsheet.html )
 
 #### Typescript
++ [Olivers TS](https://www.oliverflint.co.uk/2020/03/07/D365-Typescript-Webresources-Part-1/)
 + [Scott D's Typescript Web Resources class](https://learn.develop1.net/courses/building-javascript-web-resources-using-typescript/contents/60a9660f607a8)
 + [Typescript Webpack template](https://xrm.al/blog/typescript-dataverse?utm_campaign=Power%20Platform%20Developers%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
 + [ESLint power platform](https://www.develop1.net/public/post/2022/07/21/power-apps-eslint-plugin-replaces-solution-checker-for-typescript-code?utm_campaign=Power%20Platform%20Developers%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
