@@ -102,6 +102,7 @@
 + [PowerApps Raw](https://www.richardawilson.com/)
 
 ### Utility
++ To get an advanced find window in teh new UI, suffix this:  /main.aspx?app=d365default&forceUCI=1&pagetype=advancedfind
 
 + To enable telnet -> Dism /Online /Enable-feature /FeatureName:TelnetClient
 
