@@ -109,6 +109,7 @@
 + Screenshot / Demo live utility ->   type start->run->psr
 
 + [Set up postman to work with DataVerse](https://youtu.be/HpUj11yU0fY)
++ [Another postman article docs.microsoft](https://docs.microsoft.com/en-us/power-apps/developer/data-platform/webapi/setup-postman-environment)
 
 + [Query Expression to FetchXml c# (can just use xrmTB FXB instead)](https://github.com/gspro/Power-Platform-Fetch-XML/blob/main/QueryExpressionToFetchXml.cs)
 
