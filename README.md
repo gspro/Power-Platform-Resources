@@ -116,6 +116,7 @@
 + [D365 Dev Extensions (2019)](https://github.com/tsharp/D365DeveloperExtensions)
 
 + [Chrome dark mode](https://www.tomsguide.com/news/how-to-enable-chrome-dark-mode)  browse here: "chrome://flags/#enable-force-dark"
++ [Notebooks - rajyraman](https://github.com/rajyraman/Dataverse-Interactive-Notebook)
 
 ### Project Managment, Requirements
 + [Requirements for a Power Platform project](https://www.apprising.co.nz/post/gathering-defining-power-platform-requirements?utm_campaign=Power%20Platform%20Developers%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
