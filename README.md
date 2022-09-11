@@ -41,6 +41,7 @@
 + [JS samples](https://neilparkhurst.com/2017/02/25/javascript-my-collection/)
 
 #### PCF
++ [React TS Template](https://github.com/gspro/pcf-react-typescript)
 + [MS Tutorial](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/tutorial-create-model-driven-field-component)
 
 + [Virtual (react) controls](https://www.develop1.net/public/post/2022/04/07/how-to-convert-pcf-to-virtual-control?utm_campaign=Power%20Platform%20Developers%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
