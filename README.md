@@ -40,6 +40,7 @@
 
 + [JS samples](https://neilparkhurst.com/2017/02/25/javascript-my-collection/)
 
++ [DaniKahil js cheatsheet](https://danikahil.com/wp-content/uploads/2022/09/Power-Apps-Model-Driven-Apps-JavaScript-cheatsheet-1.pdf)
 #### PCF
 + [React TS Template](https://github.com/gspro/pcf-react-typescript)
 + [MS Tutorial](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/tutorial-create-model-driven-field-component)
