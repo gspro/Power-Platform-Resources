@@ -72,6 +72,14 @@
 
 +  [Extend client secret expiration > 2 yrs](https://crmtipoftheday.com/1404/app-secrets-that-last-longer-than-2-years/?utm_campaign=PP-Weekly&utm_medium=email&utm_source=Revue%20newsletter)
 
++ Extend secret:  Install-Module AzureAD
+                  $startDate = Get-Date
+                  $endDate = $startDate.AddYears(5)
+                  Connect-AzureAD -TenantId ad2f1e0f-b97e-4858-b3ab-7c4a814da8ce -Confirm
+                  $aadappsecret = New-AzureADApplicationPasswordCredential -ObjectId 34264b0d-38d4-4582-9895-383b608c17d7 -CustomKeyIdentifier "D365 Access" -StartDate $startDate -EndDate $enddate
+                  $aadappsecret
+
+
 + [Add App User to DataVerse](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users)
 
 + [Call WebAPI using Client Creds from PowerShell](https://github.com/gspro/Power-Platform-Resources/commit/eca877be69a8017af44c6fbf2713f001ceae04ac)
