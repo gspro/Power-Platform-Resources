@@ -90,7 +90,7 @@
 + [Improve Kingswaysoft Performance](https://nishantrana.me/2021/06/15/how-to-improve-data-migration-performance-ssis-azure-data-factory-dataverse-dynamics-365/)
 
 + [Export/Create Environment Variables](https://github.com/gspro/SQLResources/blob/main/ExportEnvVars.sql)
-
++ [Kingsway update download link](https://www.kingswaysoft.com/downloads/releases/ssis/dynamics-365/IntegrationToolkit-Dynamics365-x64.zip)
 ### SSRS/PBI
 + [Set up SSRS for D365](https://readyxrm.blog/2021/01/23/ssrsdataverse2021/)
 
