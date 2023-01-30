@@ -1,0 +1,29 @@
+To register an application in Active Directory, follow these steps:
+
+Open portal.azure.com
+Select Azure Active Directory
+Select Add, then App registration
+Enter a name for your app
+Select Accounts in this organizational directory only
+Select Register
+Select Overview and copy Directory (tenant) ID and Application (client) ID - we will need these later
+Select Certificates & secrets
+Select New client secret
+Select Add
+Save the value of this secret somewhere - we will need this later
+API Permissions: No, not needed
+
+Head over to https://aka.ms/ppac to access the Power Platform Admin center
+Select an environment of your choice
+Select Settings
+Select Users + permissions
+Select Application users
+Select New app user
+Select Add an app
+Select the app that you registered in the step before
+Select Add
+Select the appropriate Business unit
+Select the pen icon next to Security roles
+Add a security role, for example System Administrator (God mode)
+Select Save
+Select Create
