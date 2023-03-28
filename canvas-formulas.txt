@@ -1,0 +1,23 @@
+Switch
+
+Switch(cboFilter.Selected.Value,
+        "Not-Reconciled",
+            Set(paymentsToProcess,
+                Filter(
+                'Incoming Payments',
+                'Check #'=txtCheckNumber.Value And 'Processing Status' <> 'Processing Status (Incoming Payments)'.Reconciled
+                )),
+        "Pending Only",
+        Set(paymentsToProcess,
+                Filter(
+                'Incoming Payments',
+                'Check #'=txtCheckNumber.Value And 'Processing Status' = 'Processing Status (Incoming Payments)'.Pending
+                )),
+        "Pending and Error",
+        Set(paymentsToProcess,
+                Filter(
+                'Incoming Payments',
+                'Check #'=txtCheckNumber.Value And Or('Processing Status' = 'Processing Status (Incoming Payments)'.Pending,
+                'Processing Status' = 'Processing Status (Incoming Payments)'.Error
+                )))
+    );
