@@ -51,7 +51,7 @@
 + [App Examples - Mobbin](https://mobbin.com/browse/ios/apps)
 + [US Tools](https://uxtools.co/)
 + [icons](https://iconsax.io/)
-
++ [Material Design palette](https://www.materialpalette.com/)
 
 ### Azure
 + [MS Docs Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=v3%2Cwindows%2Ccsharp%2Cportal%2Cbash%2Ckeda)
