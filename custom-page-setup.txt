@@ -1,0 +1,75 @@
+In the app start if you're referencing a specific record:
+
+
+Set(
+    paymentIdctx,
+    If(
+        IsBlank(Param("recordId")),
+        GUID("9F51AF9F-BCB7-ED11-83FD-000D3A1C7E8D"),
+        GUID(Param("recordId"))
+    )
+);
+
+Set(
+    currentPayment,
+    LookUp(
+        Payments,
+        Payment = paymentIdctx
+    )
+);
+
+Set(currentPayor, currentPayment.Payor.Account);
+
+Set(
+    currentAccount,
+    LookUp(
+        Accounts,
+        Account=currentPayor)
+);
+
+ClearCollect(currentPolicies,Filter(Policies,Payor.Account =currentPayor));
+
+
+Javascript launch:
+
+function launchProcessIncomingPaymentDialog(executionContext) {
+   //var paymentId = executionContext.data.entity.getId().replace(/[{}]/g, "");
+ var paymentId = executionContext; //passing selectedControlSelectedItemIds from associated grid command
+    
+   // var paymentId = executionContext.data.entity.getId().replace(/[{}]/g, "");
+    console.log("record id: " + paymentId);
+
+    // Centered Dialog
+    var pageInput = {
+        pageType: "custom",
+        name: "ali_processincomingpayments_68ff8",
+        entityName: "ali_commissionpayment",
+        recordId: paymentId,
+    };
+    var navigationOptions = {
+        target: 2,
+        //position: 1,//dialog
+        position: 2,
+        //width: { value: 50, unit: "%" },
+        width: { value: 900, unit: "px" },
+        title: "Process Incoming Payments"
+    };
+
+    Xrm.Navigation.navigateTo(pageInput, navigationOptions)
+        .then(
+            function () {
+                // Called when the dialog closes
+                //calling from a grid, so this won't work:
+                // executionContext.data.refresh(true);
+            }
+        ).catch(
+            function (error) {
+                // Handle error
+                alert(error);
+            }
+        );
+    
+    
+}   
+
+
