@@ -52,6 +52,9 @@
 + [US Tools](https://uxtools.co/)
 + [icons](https://iconsax.io/)
 + [Material Design palette](https://www.materialpalette.com/)
++ [SVG Icons] (https://github.com/tabler/tabler-icons)
++ [More icons] (https://phosphoricons.com/)
++ [yCombinator post with lots of icon refs] (https://news.ycombinator.com/item?id=35720720)
 
 ### Azure
 + [MS Docs Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=v3%2Cwindows%2Ccsharp%2Cportal%2Cbash%2Ckeda)
