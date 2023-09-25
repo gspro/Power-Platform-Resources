@@ -32,6 +32,7 @@ Set-AdminPowerAppOwner –AppName $AppName -AppOwner $NewAppOwner –Environment
 #### Power Automate
 + [Snippets](https://crmtipoftheday.com/pages/power-automate-gymnastics-reference-guide/)
 + [Kahils cheatsheet](https://danikahil.com/2022/04/power-automate-dataverse-cheatsheet.html )
++ [Matt D's Coding Standards] (https://www.matthewdevaney.com/power-automate-coding-standards-for-cloud-flows/)
 
 #### Typescript
 + [Olivers TS](https://www.oliverflint.co.uk/2020/03/07/D365-Typescript-Webresources-Part-1/)
