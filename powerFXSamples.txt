@@ -1,0 +1,14 @@
+fill a collection with search results:
+
+ClearCollect(searchResults,
+ Filter(
+                Equipment,
+                'Equipment (Views)'.'Active Equipment - Non-Attachment',  //view is not required
+                'Fleet Type' = [@'Fleet Type Choice'].Rental,
+                Or(StartsWith('Equipment Number',Trim(txtSearchModelOrEq.Text)),
+                    StartsWith('Model Number',Trim(txtSearchModelOrEq.Text)), 
+                    StartsWith('Serial #',Trim(txtSearchModelOrEq.Text))
+                    )
+            )
+)
+);
