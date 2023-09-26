@@ -12,3 +12,8 @@ ClearCollect(searchResults,
             )
 )
 );
+
+
+
+format currency:
+"$" & Text(ThisItem.Price,"[$-en-US]#,##0.00")
