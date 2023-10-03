@@ -55,7 +55,8 @@ Set-AdminPowerAppOwner –AppName $AppName -AppOwner $NewAppOwner –Environment
 ### UI/UX
 + [App Examples - Mobbin](https://mobbin.com/browse/ios/apps)
 + [US Tools](https://uxtools.co/)
-+ [icons](https://iconsax.io/)
++ [icons - iconsax](https://iconsax.io/)
++ [icons - flaticons](https://www.flaticon.com/)
 + [Material Design palette](https://www.materialpalette.com/)
 + [SVG Icons] (https://github.com/tabler/tabler-icons)
 + [More icons] (https://phosphoricons.com/)
