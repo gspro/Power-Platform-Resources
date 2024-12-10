@@ -28,6 +28,7 @@ $AppName = '3b328263-ef5e-4db8-b360-d74eb474b8af'
 $NewAppOwner = '6857d910-10c3-485e-a492-6456ce2f1625'
 Set-AdminPowerAppOwner –AppName $AppName -AppOwner $NewAppOwner –EnvironmentName $EnvironmentName`
 
++[Error handling](https://platformsofpower.net/power-apps-error-handling-essentials/?utm_source=substack&utm_medium=email)
 
 #### Power Automate
 + [Snippets](https://crmtipoftheday.com/pages/power-automate-gymnastics-reference-guide/)
