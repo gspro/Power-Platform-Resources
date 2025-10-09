@@ -1,7 +1,7 @@
 var FSCMIntegration = FSCMIntegration || {
 
-    fscmOauthApiKey: 'onepritchard-ce-crp',
-    fscmPricingIntegrationUrl: `https://prod-98.westus.logic.azure.com:443/workflows/235bf63fb9e64285b93a4ba2e3902adf/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=F5B-LTrzr2hHocGf9sn5EW76BFRiZz6RMgtRyP1ewzQ`,
+    fscmOauthApiKey: 'xxxxx',
+    fscmPricingIntegrationUrl: `xxxxx`,
 
     commands: {
         async clickOpportunity(primaryControl) {
