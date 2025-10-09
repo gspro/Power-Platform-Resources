@@ -74,6 +74,9 @@ Set-AdminPowerAppOwner –AppName $AppName -AppOwner $NewAppOwner –Environment
 
 ### Connectivity
 + [fscm oath token url](https://login.microsoftonline.com/<tenantID>/oauth2/token)
++ fscm token url body:
++ grant_type=client_credentials&client_id=<clientid>&client_secret=<secret>&resource=<fscm env url>/&redirect=<fscm env url>
++ 
 + [a better app reg article](https://www.m365princess.com/blogs/2022-07-25-why-your-service-principal-doesnt-need-a-dynamics-user_impersonation-scope/?utm_campaign=Power%20Platform%20Developers%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
 
 + [App registration, service principle creation](https://www.matthewdevaney.com/a-visual-guide-to-power-platform-service-principal-setup/?s=03)
