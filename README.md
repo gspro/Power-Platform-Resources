@@ -6,6 +6,9 @@
 ### Architecture
 + [North Star Architecture (Microsoft)](https://github.com/microsoft/industry/tree/main/foundations/powerPlatform)
 
+### Canvas / Custom Pages
++ [Generic js for page launch](https://saralagerquist.com/2023/08/15/use-a-generic-typescript-to-open-custom-pages/)
+
 ### DataVerse
 + [Create and use Custom APIs](https://docs.microsoft.com/en-us/powerapps/developer/data-platform/custom-api)
 
